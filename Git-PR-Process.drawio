@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T23:21:12.889Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Htz0tXbSpDEv-xhWdZSr" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T23:26:40.484Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="2rZWY7PYnvBnUIofbF3t" version="15.5.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1351" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="6Gb9cG1hv3drvlyO0GPC-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;align=center;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6Gb9cG1hv3drvlyO0GPC-5" target="6Gb9cG1hv3drvlyO0GPC-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;#34;t&amp;#34;:&amp;#34;Create PR and assign two members of team to review&amp;#34;,&amp;#34;m&amp;#34;:[{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;fc&amp;#34;,&amp;#34;v&amp;#34;:&amp;#34;Regular&amp;#34;,&amp;#34;e&amp;#34;:50},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;fid&amp;#34;,&amp;#34;v&amp;#34;:2,&amp;#34;e&amp;#34;:50},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;c&amp;#34;,&amp;#34;v&amp;#34;:&amp;#34;#ffffffff&amp;#34;,&amp;#34;e&amp;#34;:50}]}&quot;&gt;&lt;span style=&quot;color: #ffffff&quot;&gt;Create PR and assign two members of team to review&lt;/span&gt;&lt;/span&gt;" link="https://raw.githubusercontent.com/smzajac/draw-diagrams/main/assignees.png" linkTarget="_blank" id="6Gb9cG1hv3drvlyO0GPC-5">
+        <UserObject label="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;#34;t&amp;#34;:&amp;#34;Create PR and assign two members of team to review&amp;#34;,&amp;#34;m&amp;#34;:[{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;fc&amp;#34;,&amp;#34;v&amp;#34;:&amp;#34;Regular&amp;#34;,&amp;#34;e&amp;#34;:50},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;fid&amp;#34;,&amp;#34;v&amp;#34;:2,&amp;#34;e&amp;#34;:50},{&amp;#34;s&amp;#34;:0,&amp;#34;n&amp;#34;:&amp;#34;c&amp;#34;,&amp;#34;v&amp;#34;:&amp;#34;#ffffffff&amp;#34;,&amp;#34;e&amp;#34;:50}]}&quot;&gt;&lt;span style=&quot;color: #ffffff&quot;&gt;Create PR to main and assign two members of team to review&lt;/span&gt;&lt;/span&gt;" link="https://raw.githubusercontent.com/smzajac/draw-diagrams/main/assignees.png" linkTarget="_blank" id="6Gb9cG1hv3drvlyO0GPC-5">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FF8000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
             <mxGeometry x="770" y="65" width="120" height="60" as="geometry" />
           </mxCell>
@@ -89,8 +89,11 @@
         <mxCell id="6Gb9cG1hv3drvlyO0GPC-15" value="&lt;font color=&quot;#ffffff&quot;&gt;Remove yourself as reviewer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#00994D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6Gb9cG1hv3drvlyO0GPC-17" value="&lt;font color=&quot;#ffffff&quot;&gt;Move ticket status from in progress to &quot;Ready for Deployment&quot; in Jira&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#00994D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="404" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="6Gb9cG1hv3drvlyO0GPC-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;align=center;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6Gb9cG1hv3drvlyO0GPC-17" target="6Gb9cG1hv3drvlyO0GPC-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Gb9cG1hv3drvlyO0GPC-17" value="&lt;font color=&quot;#ffffff&quot;&gt;Move ticket status from in progress to &quot;Ready for Deployment&quot; in Jira&lt;br&gt;AND&lt;br&gt;Reassign ticket to Developer&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#00994D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="404" y="190" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="6Gb9cG1hv3drvlyO0GPC-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=10;fontColor=#000000;align=center;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6Gb9cG1hv3drvlyO0GPC-19" target="6Gb9cG1hv3drvlyO0GPC-21">
           <mxGeometry relative="1" as="geometry" />
@@ -104,7 +107,7 @@
         <mxCell id="6Gb9cG1hv3drvlyO0GPC-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;align=center;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6Gb9cG1hv3drvlyO0GPC-21" target="6Gb9cG1hv3drvlyO0GPC-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6Gb9cG1hv3drvlyO0GPC-21" value="&lt;font color=&quot;#ffffff&quot;&gt;Update ticket accordingly&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FF8000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6Gb9cG1hv3drvlyO0GPC-21" value="&lt;font color=&quot;#ffffff&quot;&gt;Update ticket accordingly and update to &quot;Changes Addressed&quot; in Jira&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FF8000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1007" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Gb9cG1hv3drvlyO0GPC-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;align=center;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6Gb9cG1hv3drvlyO0GPC-23" target="6Gb9cG1hv3drvlyO0GPC-26">
@@ -129,6 +132,9 @@
         </mxCell>
         <mxCell id="6Gb9cG1hv3drvlyO0GPC-26" value="&lt;font color=&quot;#ffffff&quot;&gt;review changes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#00994D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="868" y="356" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Gb9cG1hv3drvlyO0GPC-32" value="&lt;font color=&quot;#ffffff&quot;&gt;Merge ticket into branch AND transition to &quot;Done&quot; in Jira&amp;nbsp;&lt;br&gt;Yayyy!!!! :D&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FF8000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="248" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
