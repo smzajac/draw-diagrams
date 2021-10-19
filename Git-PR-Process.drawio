@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T23:01:28.381Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="f8peFykVkZxSLGoKVZmo" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T23:21:12.889Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Htz0tXbSpDEv-xhWdZSr" version="15.5.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="788" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -53,19 +53,82 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6Gb9cG1hv3drvlyO0GPC-13" value="Approved" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;align=center;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6Gb9cG1hv3drvlyO0GPC-8" target="6Gb9cG1hv3drvlyO0GPC-12">
+        <mxCell id="6Gb9cG1hv3drvlyO0GPC-13" value="Approved" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;align=center;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="-17" relative="1" as="geometry">
+            <mxPoint x="980" y="122" as="sourcePoint" />
+            <mxPoint x="848" y="207" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="980" y="167" />
+              <mxPoint x="848" y="167" />
+            </Array>
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6Gb9cG1hv3drvlyO0GPC-8" value="&lt;font color=&quot;#ffffff&quot;&gt;Review committed&amp;nbsp;code&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#00994D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="920" y="65" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6Gb9cG1hv3drvlyO0GPC-10" value="&lt;font color=&quot;#ffffff&quot;&gt;Review committed&amp;nbsp;code&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#00994D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6Gb9cG1hv3drvlyO0GPC-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;align=center;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6Gb9cG1hv3drvlyO0GPC-10" target="6Gb9cG1hv3drvlyO0GPC-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Gb9cG1hv3drvlyO0GPC-10" value="&lt;font color=&quot;#ffffff&quot;&gt;&amp;nbsp;Submit Feedback and remove yourself as assignee&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#00994D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1007" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6Gb9cG1hv3drvlyO0GPC-12" value="&lt;font color=&quot;#ffffff&quot;&gt;Review committed&amp;nbsp;code&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#00994D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="838" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="6Gb9cG1hv3drvlyO0GPC-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;align=center;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6Gb9cG1hv3drvlyO0GPC-12" target="6Gb9cG1hv3drvlyO0GPC-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Gb9cG1hv3drvlyO0GPC-12" value="&lt;font color=&quot;#ffffff&quot;&gt;Mark as approved&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#00994D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="788" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Gb9cG1hv3drvlyO0GPC-18" value="&amp;nbsp;IF you are&lt;br&gt;&amp;nbsp;final reviewer&lt;br&gt;AND&lt;br&gt;all other&lt;br&gt;reviewers&lt;br&gt;also approved" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;align=center;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6Gb9cG1hv3drvlyO0GPC-15">
+          <mxGeometry x="0.0036" y="-10" relative="1" as="geometry">
+            <mxPoint x="604" y="239.58" as="sourcePoint" />
+            <mxPoint x="524" y="239.58" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Gb9cG1hv3drvlyO0GPC-15" value="&lt;font color=&quot;#ffffff&quot;&gt;Remove yourself as reviewer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#00994D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Gb9cG1hv3drvlyO0GPC-17" value="&lt;font color=&quot;#ffffff&quot;&gt;Move ticket status from in progress to &quot;Ready for Deployment&quot; in Jira&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#00994D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="404" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Gb9cG1hv3drvlyO0GPC-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=10;fontColor=#000000;align=center;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6Gb9cG1hv3drvlyO0GPC-19" target="6Gb9cG1hv3drvlyO0GPC-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Gb9cG1hv3drvlyO0GPC-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;align=center;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6Gb9cG1hv3drvlyO0GPC-19" target="6Gb9cG1hv3drvlyO0GPC-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Gb9cG1hv3drvlyO0GPC-19" value="&lt;font color=&quot;#ffffff&quot;&gt;Move Ticket to &quot;Needs Changes&quot; in Jira&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#00994D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1007" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Gb9cG1hv3drvlyO0GPC-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;align=center;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6Gb9cG1hv3drvlyO0GPC-21" target="6Gb9cG1hv3drvlyO0GPC-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Gb9cG1hv3drvlyO0GPC-21" value="&lt;font color=&quot;#ffffff&quot;&gt;Update ticket accordingly&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FF8000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1007" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Gb9cG1hv3drvlyO0GPC-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;align=center;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6Gb9cG1hv3drvlyO0GPC-23" target="6Gb9cG1hv3drvlyO0GPC-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Gb9cG1hv3drvlyO0GPC-23" value="&lt;font color=&quot;#ffffff&quot;&gt;assign to reviewer who requested changes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FF8000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1007" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Gb9cG1hv3drvlyO0GPC-28" value="Approved" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=10;fontColor=#000000;align=center;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6Gb9cG1hv3drvlyO0GPC-26" target="6Gb9cG1hv3drvlyO0GPC-12">
+          <mxGeometry x="0.096" y="-13" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Gb9cG1hv3drvlyO0GPC-31" value="Needs Changes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;align=center;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6Gb9cG1hv3drvlyO0GPC-26" target="6Gb9cG1hv3drvlyO0GPC-10">
+          <mxGeometry x="0.5179" y="10" relative="1" as="geometry">
+            <mxPoint x="960" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="928" y="240" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Gb9cG1hv3drvlyO0GPC-26" value="&lt;font color=&quot;#ffffff&quot;&gt;review changes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#00994D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="868" y="356" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
